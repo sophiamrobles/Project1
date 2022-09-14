@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ballet</title>
+</head>
+<body>
+    <h1>Sophia Robles</h1>
+    <p>Dance Portfolio</p>
+    <h2>Background</h2>
+    <p><b>Styles</b></p>
+    <p>Ballet, Pointe, Modern, Contemporary, Jazz, Lyrical</p>
+    <p><b>Formal Training</b></p>
+    <ul>
+        <li>Flint School of Performing Arts</li>
+        <li>Young People's Ballet Theatre</li>
+        <li>Carrolanne Killmer School of Dance</li>
+    </ul>
+    <p><b>Professional Experience</b></p>
+    <ul>
+        <li>Flint Youth Ballet</li>
+        <li>Grand Rapids Ballet</li>
+        <li>Young People's Ballet Company</li>
+        <li>Dean Black School of Dance</li>
+        <li>Saginaw Dance Art Project</li>
+    </ul>
+</body>
+
+
+</html>
