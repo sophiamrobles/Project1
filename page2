@@ -8,15 +8,15 @@
     <h1>Sophia Robles</h1>
     <p>Dance Portfolio</p>
     <h2>Background</h2>
-    <p><b>Styles</b></p>
+    <h3>Styles<h3>
     <p>Ballet, Pointe, Modern, Contemporary, Jazz, Lyrical</p>
-    <p><b>Formal Training</b></p>
+    <h3>Formal Training</h3>
     <ul>
         <li>Flint School of Performing Arts</li>
         <li>Young People's Ballet Theatre</li>
         <li>Carrolanne Killmer School of Dance</li>
     </ul>
-    <p><b>Professional Experience</b></p>
+    <h3>Professional Experience</h3>
     <ul>
         <li>Flint Youth Ballet</li>
         <li>Grand Rapids Ballet</li>
@@ -25,6 +25,4 @@
         <li>Saginaw Dance Art Project</li>
     </ul>
 </body>
-
-
 </html>
